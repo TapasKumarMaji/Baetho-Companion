@@ -1,0 +1,22 @@
+<hi>
+ <student>
+ <names>Arnab</names>
+ <rollno>24</rollno>
+ <grade>B+</grade>
+ <image>/Default/gf.PNG</image>
+ </student>
+ 
+ <student>
+ <names>Akshay</names>
+ <rollno>89</rollno>
+ <grade>A</grade>
+ <image>/Default/booked.PNG</image>
+ </student>
+ 
+ <student>
+ <names>Akshay</names>
+ <rollno>25</rollno>
+ <grade>C+</grade>
+ <image>/Default/Blocked.PNG</image>
+ </student> 
+</hi>
